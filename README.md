@@ -1,6 +1,6 @@
 # Statistics_Present
 This app performes some statistical analylis
-(Only 1 module is pushed in public repo)
+(Only 1 module is pushed in public repo (check master branch))
 
 The app gives you ability to:
 1. Do basic statistical analysis for many dimension data (mean value, SDG, histograms, correlation coefficients)
