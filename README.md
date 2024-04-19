@@ -8,7 +8,7 @@ The app gives you ability to:
 3. Perform regression analysis (linear for nD and quadratic model for 2D data), check significance and accuracy of the regression parameters
 4. Create samples with normal and exp distribution
 5. Check some of the statistical hipothesis (check if the distributions are the same, homogeneity hypothesis, etc.)
-6. Perform component analysis
+6. PCA
 
 
 Додаток дає вам можливість:
